@@ -1,4 +1,4 @@
-# Databas Sqlite | Westcoast Education
+# Utan databasåtkomst | Westcoast Education
 
 ## Min första mvc-applikation. Ett fiktivt projekt under namnet Westcoast Education (WE).
 
