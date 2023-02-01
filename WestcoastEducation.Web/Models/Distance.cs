@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace WestcoastEducation.Web.Models;
 
-public class Classroom
+public class Distance
 {
     [Key]
     public int Id { get; set; }

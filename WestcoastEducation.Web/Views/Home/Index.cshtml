@@ -2,6 +2,12 @@
 <link rel="stylesheet" href="~/css/landing-page.css">
 }
 
+@section OnDemand{
+<section class="offer-container">
+    @await Html.PartialAsync("_OnDemandOffer")
+</section>
+}
+
 <div class="landing">
     <div class="content">
         <h1>Välkommen till Westcoast Education!</h1>
@@ -10,9 +16,8 @@
             erbjuder även distansutbildning där elever kan närvara via länk till klassrum där en lärare genomför
             lektionen. Vi kommer nu också att göra en stor satsning på att kunna tillhandahålla utbildningar, seminarier
             och webinarier "OnDemand".</p>
-        <div class="button">
-            @Html.ActionLink("Se våra utbildningar", "Index", "Classroom")
-        </div>
+        <button type="button" class="btn btn-outline-warning btn-lg">
+            @Html.ActionLink("Se våra utbildningar", "Index", "Classroom")</button>
     </div>
 </div>
 <div class="background-image">
