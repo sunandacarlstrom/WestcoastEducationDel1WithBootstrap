@@ -2,6 +2,6 @@
 
 ## Min första mvc-applikation. Ett fiktivt projekt under namnet Westcoast Education (WE).
 
-### Del 1: Skapa en startsida 
+### BONUS: Skapa en startsida med Bootstrap
 
-Startsidan består av HTML kombinerat med dynamisk HTML som genereras med hjälp av taghelpers och html helpers. Startsidan har också en navbar som kan navigera till en fejk sida för att lista kurser, men även kunna navigera tillbaka till startsidan.
+Använder endast Bootstrap för att designa min startsida för WE. Jag har alltså gjort om designen från tidigare projekt för att lära mig hur Bootstrap fungerar. 
