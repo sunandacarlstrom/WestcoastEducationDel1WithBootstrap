@@ -4,4 +4,4 @@
 
 ### BONUS: Skapa en startsida med Bootstrap
 
-Använder endast Bootstrap för att designa min startsida för WE. Jag har alltså gjort om designen från tidigare projekt för att lära mig hur Bootstrap fungerar. 
+Använder endast Bootstrap för att designa min startsida för WE. Jag har alltså gjort om designen från tidigare projekt för att lära mig hur Bootstrap fungerar.
